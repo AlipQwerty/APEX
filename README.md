@@ -11,7 +11,7 @@ Script Brute Crack Facebook
  $ python -m pip install bs4
  $ python -m pip install pyfiglet
  $ git clone https://github.com/AlipQwerty/APEX
- $ cd ATOS
+ $ cd APEX
  $ git pull
  $ python apex.py
  ```
@@ -20,6 +20,6 @@ Script Brute Crack Facebook
   $ cd $HOME
   $ rm -rf ATOS
   $ git clone https://github.com/AlipQwerty/APEX
-  $ cd ATOS
+  $ cd APEX
   $ git pull
   $ python apex.py
